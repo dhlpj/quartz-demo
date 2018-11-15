@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="quartzSpring:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/quartzSpring_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="quartzSpring/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="quartzSpring" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
